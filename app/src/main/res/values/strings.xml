@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="true">Stock Hawk</string>
+    <string name="title_widget_detail">Stock Hawk Details</string>
+
+    <string name="action_example" translatable="true">Example action</string>
+
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="action_change_units" translatable="true">Change Units</string>
+    <string name="symbol_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="true">FB</string>
+    <string name="input_prefill" translatable="true"></string>
+    <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+
+    <string name="google_app_id">772818541992</string>
+    <!-- Added for Widget -->
+    <string name="title_widget_stock_quote" translatable="true">Stock Hawk</string>
+
+    <!-- Added for Empty Stock Database -->
+    <string name="empty_stock_database" translatable="true">Stock Database is Empty</string>
+
+    <!-- Key-Value pair for storing time of query -->
+    <string name="time_of_query_key" translatable="false">timeOfQueryKey</string>
+
+    <!-- Out of Data Message -->
+    <string name="out_of_date_data" translatable="true">Warning : No Internet Connection, Stock Data may be Out of Date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_my_stock_details">Historical Quote</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- Shared Preference Keys for moving historical quote data from Service to UI task-->
+    <string name="share_pref_close_value_json">Close Value Json</string>
+
+
+</resources>

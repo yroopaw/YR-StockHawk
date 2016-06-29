@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+<string name="app_name" translatable="true">الأسهم هوك</string>
+
+
+
+<string name="action_settings" translatable="true">إعدادات</string>
+<string name="action_change_units" translatable="true">وحدات التغيير</string>
+<string name="symbol_search" translatable="true">رمز البحث</string>
+<string name="content_test" translatable="true">بحث عن الأوراق المالية رمز</string>
+<string name="input_hint" translatable="true">FB</string>
+<string name="input_prefill" translatable="true"></string>
+<string name="network_toast" translatable="true">اه اوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+
+    <!-- Added for Widget -->
+    <string name="title_widget_stock_quote" translatable="true">الأسهم هوك</string>
+
+    <!-- Added for Empty Stock Database -->
+    <string name="empty_stock_database" translatable="true">الأسهم قاعدة بيانات فارغة</string>
+
+    <!-- Out of Data Message -->
+    <string name="out_of_date_data" translatable="true">تحذير : لا اتصال إنترنت ، قد يكون أسهم بيانات قديمة</string>
+</resources>
