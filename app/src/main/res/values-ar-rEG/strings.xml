@@ -13,6 +13,7 @@
 <string name="input_hint" translatable="true">FB</string>
 <string name="input_prefill" translatable="true"></string>
 <string name="network_toast" translatable="true">اه اوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+    <string name="stock_already_saved" translatable="true">يتم حفظ هذه الأسهم بالفعل!</string>
 
     <!-- Added for Widget -->
     <string name="title_widget_stock_quote" translatable="true">الأسهم هوك</string>

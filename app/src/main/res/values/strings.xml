@@ -11,6 +11,7 @@
     <string name="input_hint" translatable="true">FB</string>
     <string name="input_prefill" translatable="true"></string>
     <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+    <string name="stock_already_saved" translatable="true">This stock is already saved!</string>
 
     <string name="google_app_id">772818541992</string>
     <!-- Added for Widget -->
